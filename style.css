@@ -1,0 +1,24 @@
+h1{
+  color: black;
+  background-color: pink;
+  border-style: solid;
+  border-color: black;
+  border-radius: 30px;
+  font-family: Arial;
+}
+body{
+  text-align: center;
+}
+p{
+  color: black;
+  font-family: Arial;
+  font-size: 20px;
+}
+#btn{
+  border-style: dashed;
+  border-radius: 30px;
+  padding: 12px;
+  background-color: pink;
+  color: black;
+  font-family: Arial;
+}
